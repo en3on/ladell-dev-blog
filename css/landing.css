@@ -44,7 +44,13 @@
 
 @media only screen and (max-width: 768px) {
   .title {
-    font-size: 70px;
+    font-size: 0.5vw;
+    text-align: center;
+    word-wrap: wrap;
+  }
+
+  .coming-soon {
+    font-size: 1vw;
     text-align: center;
     word-wrap: wrap;
   }
