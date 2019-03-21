@@ -1,0 +1,45 @@
+@import 'navbar.css';
+@import 'landing.css';
+@import 'about-me.css';
+@import 'skills.css';
+@import 'banner.css';
+@import 'projects.css';
+@import 'contact-me.css';
+@import 'hamburger.css';
+
+:root {
+  /* fonts */
+  --autour : 'Autour One', cursive;
+  --chivo : 'Chivo', sans-serif;
+  --rokkitt : 'Rokkitt', serif;
+
+ /* colors */ 
+  --pink: #FFE3F1;
+  --teal: #00C9C8;
+  --salmon: #FFA28A;
+  --granite: #303030;
+}
+
+* {
+  margin: 0;
+}
+
+.break-background {
+  background-image: linear-gradient(white 0%, #96ed93 33%, #c6f47f 50%, #96ed93 83%, white);
+  height: 100%;
+  width: 100%;
+}
+
+/*
+@media only screen and (max-width: 600px) {
+  .desktop {
+    display: none;
+  }
+}
+*/
+
+@media only screen and (max-width: 768px) {
+  .desktop {
+    display: none;
+  }
+}
