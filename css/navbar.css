@@ -64,6 +64,7 @@
   text-decoration: none;
   color: var(--pink);
   font-family: var(--autour);
+  font-size: 2vw;
   cursor: pointer;
 }
 
@@ -88,8 +89,7 @@
   justify-content: space-around;
   align-items: center;
   font-size: 30px;
-  padding-left: 120px;
-  padding-right: 50px;
+  padding-right: 40px;
 }
 
 .nav-social-logos a {

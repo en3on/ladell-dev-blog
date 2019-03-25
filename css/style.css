@@ -1,11 +1,8 @@
 @import 'navbar.css';
+@import 'animation.css';
 @import 'landing.css';
-@import 'about-me.css';
-@import 'skills.css';
-@import 'banner.css';
-@import 'projects.css';
-@import 'contact-me.css';
 @import 'hamburger.css';
+@import 'blog-index.css';
 
 :root {
   /* fonts */

@@ -16,43 +16,14 @@
   align-items: center;
 }
 
-.title {
-  font-family: var(--autour);
-  color: var(--teal);
-  font-size: 50px;
-}
-
-.coming-soon {
-  font-size: 100px;
+.ladell-studios-title {
   color: var(--teal);
   font-family: var(--autour);
+  font-size: 4.8vw;
 }
 
-
-
-/* mobile specific */
-
-/*
-@media only screen and (max-width: 600px) {
-  .title {
-    font-size: 70px;
-    text-align: center;
-    word-wrap: wrap;
-  }
+.blog-title {
+  color: var(--teal);
+  font-family: var(--autour);
+  font-size: 6.9vw;
 }
-*/
-
-@media only screen and (max-width: 768px) {
-  .title {
-    font-size: 5vw;
-    text-align: center;
-    word-wrap: wrap;
-  }
-
-  .coming-soon {
-    font-size: 10vw;
-    text-align: center;
-    word-wrap: wrap;
-  }
-}
-
